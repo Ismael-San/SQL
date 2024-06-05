@@ -18,6 +18,8 @@ The main objective of this project was to extract insights from international tr
 
 - Microsoft Excel : Dashboard Creation
 
+### Entity Relationship Diagram
+
 ### Data Cleaning/Preparation
 
 ### Exploratory Data Analysis
