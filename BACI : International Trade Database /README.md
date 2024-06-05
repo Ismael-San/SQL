@@ -12,7 +12,11 @@ The main objective of this project was to extract insights from international tr
 
 ### Data Sources
 
+
 ### Tools
+- MySQLWorkbench : Data Analysis
+
+- Microsoft Excel : Dashboard Creation
 
 ### Data Cleaning/Preparation
 
