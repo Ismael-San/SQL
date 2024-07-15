@@ -8,7 +8,7 @@ BACI (Base pour l'Analyse du Commerce International) is a bilateral trade flow d
 
 1. Incomplete Data: COMTRADE presents some missing values/flows in the country reports sent to the United Nations, leading to incomplete data.
 2. Classification Issues: Some countries use the SITC classification, an older system instead of the current Harmonized System, can lead to lack of readibility.
-3. Data Discrepancies: There are differences in the data provided by importers and exporters for the same trade flow. One solution to this issue was removing the trade cost value (CIF) from import values.
+3. Data Discrepancies: There are differences in the data provided by importers and exporters for the same trade flow. One solution to this issue was to remove the trade cost value (CIF) from import values.
 
 ### Project Overview
 
