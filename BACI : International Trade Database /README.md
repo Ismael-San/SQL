@@ -43,8 +43,9 @@ Product codes :
 In the initial data preparation phase, we performed the following tasks:
 - Loading the csv dataset
 - Handling missing values/duplicates
-- Data formatting (handling format issues with country name and special characters) 
-- Data formatting in header to increase readibility, here is the query use from MySQL Workbench :
+- Data formatting :
+  - Handling format issues with country name and special characters from Microsoft Excel
+  - Data formatting in header to increase readibility, here is the queries use from MySQL Workbench :
 
 ```sql
 SELECT *
