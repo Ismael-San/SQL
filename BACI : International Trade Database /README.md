@@ -120,7 +120,7 @@ SELECT
 FROM product_codes
 ;
 
--- TO RETRIEVE CONTRY DETAILS
+-- TO RETRIEVE CONTRY DETAILS --
 SELECT
 	*
 FROM country_codes
