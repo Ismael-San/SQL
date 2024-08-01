@@ -4,7 +4,7 @@
 
 ### Introduction
 
-BACI (Base pour l'Analyse du Commerce International) is a bilateral trade flow dataset published by Guillaume Gaulier and Soledad from the CEPII, based on data collected from the United Nations COMTRADE. Several reasons explain the computation of BACI by Gaulier and Soledad:
+BACI (Base pour l'Analyse du Commerce International) is a bilateral trade flow dataset published by Guillaume Gaulier and Soledad from the CEPII, based on data collected from the United Nations COMTRADE. Several reasons explain the computation of BACI by B.Gaulier and Soledad:
 
 1. Incomplete Data: COMTRADE presents some missing values/flows in the country reports sent to the United Nations, leading to incomplete data.
 2. Classification Issues: Some countries use the SITC classification, an older system instead of the current Harmonized System, can lead to lack of readibility.
